@@ -1,0 +1,2 @@
+# ConfigData
+stores configurational data
